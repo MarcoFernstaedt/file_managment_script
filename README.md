@@ -5,6 +5,3 @@ This Script will allow users to manage downloaded files by puttiing them into re
 
 ## Technologies
 - **watchdogs**: scans for changes in given directory
-
-## Future Feature
--**class based script**: reformat script into a class
